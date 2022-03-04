@@ -1,10 +1,11 @@
 ### Hi Welcome, i'm YUNA BAE 👋
 
-🛠️ Stacks 🛠️
+🛠️ Stacks 🛠️ 
+
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyuna97&show_icons=true&theme=radical)
 
-🐱 About Me 🐱. 
+🐱 About Me 🐱
 
 📧 yunabae482@gmail.com
