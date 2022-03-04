@@ -1,3 +1,3 @@
 ### Hi Welcome, i'm YUNA BAE 👋
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<a href="내 노션 링크" target="Notion"><img src="https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300"/></a>
