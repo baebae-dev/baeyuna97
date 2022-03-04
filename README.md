@@ -18,12 +18,15 @@
 🏅 Algorithm Gold Level. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuna1do)](https://solved.ac/yuna1do/)
+프로그래머스 - Lv3
+I Got Samsung Pro Level SW Coding Test
 
 🏆 Awards
 |대회명|수상|날짜|
 |------|---|---|
 |Microsoft News Recommendation|World 2nd Prize|Oct 21, 2020|
 |Kaggle Man/Female Predict Competition|1위|Jan 25, 2019|
+
 
  제가 해온 프로젝트 및 개발 소스가 사내 기밀 그리고 주최사 비밀 서약 등으로 공개하지 못하는 부분이 많습니다.  
  양해부탁드립니다.  
