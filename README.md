@@ -1,8 +1,8 @@
 ### Hi Welcome, i'm YUNA BAE 👋
 
 #### AI Researcher / Web Developer  
-유익한 사회적 가치를 만드는 개발자  
-참신한 것을 생각하고 연구하고 만들어 실질적 실현까지 연결하는 개발자  
+Developers who create beneficial social values 
+A developer who thinks, researches, creates, and connects to practical realization by web
 
 🛠️ Stacks
 
