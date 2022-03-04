@@ -16,8 +16,10 @@
   [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)](https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)
 
 
-제가 해온 프로젝트 및 개발 소스가 사내 기밀 그리고 주최사 비밀 서약 등으로 공개하지 못하는 부분이 많습니다.
-양해부탁드립니다.
+
+
+ 제가 해온 프로젝트 및 개발 소스가 사내 기밀 그리고 주최사 비밀 서약 등으로 공개하지 못하는 부분이 많습니다.
+ 양해부탁드립니다.
 -------------------------------------
 There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.
 Please understand.
